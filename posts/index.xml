@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 小柏 Shiaubo</title>
-    <link>https://hugo-blog-awesome.netlify.app/posts/</link>
+    <link>https://shiaubo.github.io/posts/</link>
     <description>Recent content in Posts on 小柏 Shiaubo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 15 Mar 2023 20:27:47 +0800</lastBuildDate><atom:link href="https://hugo-blog-awesome.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Mar 2023 20:27:47 +0800</lastBuildDate><atom:link href="https://shiaubo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我用 hugo 架設了部落格站台</title>
-      <link>https://hugo-blog-awesome.netlify.app/posts/20230315-new-site-with-hugo/</link>
+      <link>https://shiaubo.github.io/posts/20230315-new-site-with-hugo/</link>
       <pubDate>Wed, 15 Mar 2023 20:27:47 +0800</pubDate>
       
-      <guid>https://hugo-blog-awesome.netlify.app/posts/20230315-new-site-with-hugo/</guid>
+      <guid>https://shiaubo.github.io/posts/20230315-new-site-with-hugo/</guid>
       <description>鑑於 Medium 對華語的支援度較差，好幾度想要跳槽至方格子，但是又想說，好久沒有接觸一些比較技術層面的東西了……
 那就來做一個自己的部落格吧！
 於是，就有了這個網站的誕生。但因為我對於目前的 theme 還不太滿意，加上對 Markdown 語法也不熟，所以我會再持續研究看看。
